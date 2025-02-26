@@ -19,3 +19,6 @@ I break things so I can fix them better. Mostly coding in **C# & Blazor**, build
 
 ---
 🔹 _"If it works, don’t touch it... unless you’re me."_ 😆
+
+🌟 _"Humilitas homines sanctis angelis similes facit, et superbia ex angelis demones facit."_ 🔥
+
