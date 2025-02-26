@@ -1,5 +1,5 @@
 # Hey there, I’m Rai! 👋  
-🖥️ **.NET magician** | 🔥 **Angular wrangler** | 🗄️ **Database whisperer**  
+🖥️ **.NET magician** | 🔥 **React wrangler** | 🗄️ **Database whisperer**  
 
 I break things so I can fix them better. Mostly coding in **C# & Blazor**, building cool stuff with **SQL, React and whatever I like**, and making sure my queries don’t take a lifetime to run.  
 
