@@ -22,3 +22,5 @@ I break things so I can fix them better. Mostly coding in **C# & Blazor**, build
 
 🌟 _"Humilitas homines sanctis angelis similes facit, et superbia ex angelis demones facit."_ 🔥
 
+🔥 _"Fléctere si néqueo súperos, Acheronta movebo."_ 🔥
+
