@@ -15,7 +15,7 @@ I break things so I can fix them better. Mostly coding in **C# & Blazor**, build
 - 🛸 If I disappear, I’m probably lost in a deep-dive about some random topic  
 
 ## 📌 Let’s connect & build something awesome!  
-💻 [**Portfolio**](https://raizela.net/Portofolio/) | 🏢 [**LinkedIn**](https://www.linkedin.com/in/raimonda-zela-32793b212/) | 🐦 [**Blog**](https://thecutenerd.com/)  
+🏢 [**LinkedIn**](https://www.linkedin.com/in/raimonda-zela-32793b212/) | 🐦 [**Blog**](https://thecutenerd.com/) 
 
 ---
 🔹 _"If it works, don’t touch it... unless you’re me."_ 😆
